@@ -1,6 +1,8 @@
 # e
 
-  https://img.shields.io/badge/License-MIT-yellow.svg  
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+   
 
   ## Description
    e
@@ -10,12 +12,12 @@
   - [Description](#Description)
   - [Installation](#Installation)
   - [Usage](#Usage)
-  - [Licence](#Licence)
+  - [License](#License)
   - [Contributing Guidelines](#Contributing)
   - [Tests](#Tests)
   - [Questions](#Questions)
 
-  ## Installation Instructions
+  ## Installation
    e
 
   ## Usage
@@ -28,12 +30,12 @@ Licensed under the MIT license. For more information please visit: https://opens
       
 
 
-  ## Contributing Guidelines
+  ## Contributing
    e
 
   ## Tests
    e
 
   ## Questions
-   ee
+   e
    e
