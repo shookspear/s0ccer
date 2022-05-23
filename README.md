@@ -1,11 +1,11 @@
-# e
+# Test title
 
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
    
 
   ## Description
-   e
+   uhhel lorem
 
   ## Table of Contents
   
@@ -18,24 +18,24 @@
   - [Questions](#Questions)
 
   ## Installation
-   e
+   rererer
 
   ## Usage
-   e
+   erer
 
   ## License
-   MIT
-   ## License
-Licensed under the MIT license. For more information please visit: https://opensource.org/licenses/MIT   
+Licensed under the GNU GPL v3 license. For more information please visit: https://www.gnu.org/licenses/gpl-3.0   
       
 
 
   ## Contributing
-   e
+   erererer
 
   ## Tests
-   e
+   rer
 
   ## Questions
-   e
-   e
+
+  My GitHub profile can be found here: https://github.com/shookspear/shookspear
+  
+  You can contact me via email for additional questions: echeta@rogers.com
