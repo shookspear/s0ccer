@@ -1,12 +1,9 @@
-s0ccer
-======
-This is a readme file.
+# e
 
-
-# sss
+  https://img.shields.io/badge/License-MIT-yellow.svg  
 
   ## Description
-   sss
+   e
 
   ## Table of Contents
   
@@ -19,10 +16,10 @@ This is a readme file.
   - [Questions](#Questions)
 
   ## Installation Instructions
-   sss
+   e
 
   ## Usage
-   sss
+   e
 
   ## License
    MIT
@@ -32,11 +29,11 @@ Licensed under the MIT license. For more information please visit: https://opens
 
 
   ## Contributing Guidelines
-   sss
+   e
 
   ## Tests
-   sss
+   e
 
   ## Questions
-   sss
-   sss
+   ee
+   e
